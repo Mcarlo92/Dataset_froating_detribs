@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>Saved_Pic_2</folder>
+  <filename>1601254074.727751</filename>
+  <path>D:\project\bottle\09_28\Saved_Pic_2\1601254074.727751.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bottle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>602</xmin>
+      <ymin>179</ymin>
+      <xmax>663</xmax>
+      <ymax>220</ymax>
+    </bndbox>
+  </object>
+</annotation>

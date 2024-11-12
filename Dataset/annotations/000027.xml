@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>ningbo4_select_select_new</folder>
+  <filename>1601020070.0306497</filename>
+  <path>D:\project\bottle\09_25_annotation\ningbo4_select_select_new\1601020070.0306497.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bottle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>472</xmin>
+      <ymin>148</ymin>
+      <xmax>500</xmax>
+      <ymax>166</ymax>
+    </bndbox>
+  </object>
+</annotation>
